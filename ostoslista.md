@@ -2,3 +2,5 @@
 -Cucumber
 -Kissanruokaa
 -hernekeittoa
+-koiranruokaa
+-koiran joululahja
